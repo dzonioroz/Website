@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding = "UTF-8" standalone="yes"?>
+<?xml-stylesheet href="nekicss.css" type = "text/css" ?>
+<!DOCTYPE address
+[ 
+	<!ELEMENT address (name, phone)>
+]>
+<contact>
+	<address>
+		<name> Nikola O. </name>
+		<phone> (+381)64 205 72 66</phone>
+	</address>
+<![CDATA[<message>Welcome</message>]]>
+</contact>
